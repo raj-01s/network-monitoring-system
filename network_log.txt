@@ -1,0 +1,187 @@
+[2025-10-05 19:38:21] Router (192.168.1.1) is DOWN
+[2025-10-05 19:38:21] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:38:22] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:38:35] Router (192.168.1.1) is DOWN
+[2025-10-05 19:38:36] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:38:36] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:38:50] Router (192.168.1.1) is DOWN
+[2025-10-05 19:38:50] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:38:50] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:38:59] Router (192.168.1.1) is DOWN
+[2025-10-05 19:38:59] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:38:59] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:03] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:04] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:04] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:08] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:08] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:08] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:12] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:12] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:13] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:16] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:17] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:17] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:21] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:22] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:22] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:26] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:26] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:26] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:30] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:31] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:31] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:35] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:35] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:35] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:39] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:40] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:40] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:44] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:48] Google DNS (8.8.8.8) is DOWN
+[2025-10-05 19:39:49] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:53] Router (192.168.1.1) is DOWN
+[2025-10-05 19:39:54] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:39:54] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:39:58] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:02] Google DNS (8.8.8.8) is DOWN
+[2025-10-05 19:40:02] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:06] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:06] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:07] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:10] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:11] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:11] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:15] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:15] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:15] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:19] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:20] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:20] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:24] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:24] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:24] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:28] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:29] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:29] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:33] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:33] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:33] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:37] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:38] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:38] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:42] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:42] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:42] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:46] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:47] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:47] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:51] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:51] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:51] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:40:55] Router (192.168.1.1) is DOWN
+[2025-10-05 19:40:56] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:40:56] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:00] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:00] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:00] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:04] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:05] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:05] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:09] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:09] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:09] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:13] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:14] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:14] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:18] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:18] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:19] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:22] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:23] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:23] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:27] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:27] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:27] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:31] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:32] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:32] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:36] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:37] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:37] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:41] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:41] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:42] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:45] Router (192.168.1.1) is DOWN
+[2025-10-05 19:41:46] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:41:46] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:41:50] Router (192.168.1.1) is DOWN
+[2025-10-05 19:42:06] Router (192.168.1.1) is DOWN
+[2025-10-05 19:42:06] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:42:06] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:42:20] Router (192.168.1.1) is DOWN
+[2025-10-05 19:42:21] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:42:21] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:42:35] Router (192.168.1.1) is DOWN
+[2025-10-05 19:42:35] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:42:35] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:42:49] Router (192.168.1.1) is DOWN
+[2025-10-05 19:42:50] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:42:50] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:43:04] Router (192.168.1.1) is DOWN
+[2025-10-05 19:43:04] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:43:04] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:43:18] Router (192.168.1.1) is DOWN
+[2025-10-05 19:43:19] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:43:19] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:43:33] Router (192.168.1.1) is DOWN
+[2025-10-05 19:43:33] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:43:33] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:43:47] Router (192.168.1.1) is DOWN
+[2025-10-05 19:43:48] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:43:48] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:44:02] Router (192.168.1.1) is DOWN
+[2025-10-05 19:44:02] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:44:02] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:44:16] Router (192.168.1.1) is DOWN
+[2025-10-05 19:44:17] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:44:17] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:44:31] Router (192.168.1.1) is DOWN
+[2025-10-05 19:44:31] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:44:31] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:44:45] Router (192.168.1.1) is DOWN
+[2025-10-05 19:44:46] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:44:46] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:45:00] Router (192.168.1.1) is DOWN
+[2025-10-05 19:45:00] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:45:01] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:45:14] Router (192.168.1.1) is DOWN
+[2025-10-05 19:45:15] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:45:15] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:45:29] Router (192.168.1.1) is DOWN
+[2025-10-05 19:45:29] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:45:29] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:50:31] Router (192.168.1.1) is DOWN
+[2025-10-05 19:50:35] Google DNS (8.8.8.8) is DOWN
+[2025-10-05 19:50:39] Cloudflare DNS (1.1.1.1) is DOWN
+[2025-10-05 19:55:00] Router (192.168.1.1) is DOWN
+[2025-10-05 19:55:01] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:55:01] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:55:15] Router (192.168.1.1) is DOWN
+[2025-10-05 19:55:15] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:55:15] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:55:29] Router (192.168.1.1) is DOWN
+[2025-10-05 19:55:30] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:55:31] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 19:55:44] Router (192.168.1.1) is DOWN
+[2025-10-05 19:55:45] Google DNS (8.8.8.8) is UP
+[2025-10-05 19:55:45] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 20:09:05] Router (192.168.1.1) is UP
+[2025-10-05 20:09:08] Google DNS (8.8.8.8) is UP
+[2025-10-05 20:09:11] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 20:46:19] Router (192.168.1.1) is DOWN
+[2025-10-05 20:46:23] Google DNS (8.8.8.8) is DOWN
+[2025-10-05 20:46:26] Cloudflare DNS (1.1.1.1) is UP
+[2025-10-05 20:46:39] Router (192.168.1.1) is UP
+[2025-10-05 20:46:42] Google DNS (8.8.8.8) is UP
+[2025-10-05 20:46:45] Cloudflare DNS (1.1.1.1) is UP
